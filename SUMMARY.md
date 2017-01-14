@@ -11,6 +11,7 @@
     * [Den Server updaten](den-server-updaten.md)
     * [Das Paket installieren](das-paket-installieren.md)
 * [MySQL absichern](mysql-absichern.md)
+    * [Setup](setup.md)
 
 ## Verwaltung und Verwendung
 * [Neue Datenbank erstellen](neue-datenbank-erstellen.md)
