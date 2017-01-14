@@ -26,5 +26,15 @@ sudo apt upgrade
 
 > upgrade befiehlt apt nun alle auf dem Server befindlichen Pakete auf den neusten Stand zu bringen.
 
+![](/assets/update-2.png)
 
+Nun werden euch die Pakete genannt die aktualisiert werden.  
+Ihr werdet nun also gefragt, ob ihr nun fortfahren möchtet oder nicht.
+
+Wir wollen alles auf den neusten Stand bringen, also geben wir "Y" ein und bestätigen mit der Eingabetaste.  
+Hiernach werden alle verfügbaren Updates installiert und wir müssen je nach Hardware und Anbindung des Servers einige Sekunden bis Minuten abwarten.
+
+Sobald alles erledigt sind wandern wir automatisch zurück in das Terminal.
+
+![](/assets/update-3.png)
 
