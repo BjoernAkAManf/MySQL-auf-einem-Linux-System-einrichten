@@ -1,5 +1,5 @@
 # Summary
 
 * [Einleitung](README.md)
-* [MySQL](chapter1.md)
+* [Einführung zu MySQL](chapter1.md)
 

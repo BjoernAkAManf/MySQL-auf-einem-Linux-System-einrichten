@@ -1,4 +1,4 @@
-# MySQL
+# 2. Einführung zu MySQL
 
 ## Was ist MySQL?
 
