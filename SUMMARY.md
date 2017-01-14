@@ -8,4 +8,5 @@
 * [Voraussetzungen](voraussetzungen.md)
 * [MySQL installieren](mysql-installieren.md)
     * [Mit dem Server verbinden](mit-dem-server-verbinden.md)
+    * [Den Server updaten](den-server-updaten.md)
 
