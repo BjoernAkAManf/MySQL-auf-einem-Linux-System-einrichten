@@ -26,6 +26,8 @@ Wir scrollen nun mit unseren Pfeiltasten bis hinter das letzte Zeichen von der Z
 bind-address            = 127.0.0.1
 ```
 
+![](/assets/sql-config-2.png)
+
 und fügen nun nach einer neuen Zeile folgenden Text ein:
 
 ```
@@ -37,9 +39,21 @@ local-infile            = 0
 >
 > Die Anzahl der Leerzeichen ist hier irrelevant, jedoch versuche ich das hier schön zu formatieren, so dass man die Einstellung wieder schnell findet.
 
-Zum Schluss müssen wir natürlich unsere Änderungen speichern.
+![](/assets/sql-config-3.png)
 
-Das geht bei Nano indem wir erst Strg + X betätigen, unser Speichervorhaben mit Y bestätigen und zum Schluss noch einmal mit Enter den Dateinamen festlegen um die alte Datei zu überschreiben.
+Zum Schluss wollen wir natürlich unsere Änderungen speichern und Nano beenden.
+
+Um den Texteditor zu schließen, müssen wir zunächst einmal Strg + X betätigen.
+
+![](/assets/sql-config-4.png)
+
+Hiernach werden wir gefragt, ob wir unsere Änderungen speichern möchten.  
+Das dies der Fall ist, geben wir direkt ein Y ein.
+
+![](/assets/sql-config-5.png)
+
+Zum Schluss müssen wir den Dateinamen festlegen.  
+Da wir die geöffnete Datei überschreiben wollen bestätigen wir dies einfach über die Eingabetaste.
 
 Ihr landet wieder im Terminal, in dem ihr nur noch den folgenden Befehl ausführen solltet:
 
