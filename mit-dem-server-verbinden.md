@@ -22,3 +22,17 @@ Tippt euren Nutzernamen ein und bestätigt mit der Eingabetaste.
 
 ![](/assets/putty-login-3.png)
 
+Je nachdem ob und wie ihr [Public-Key-Authentifizierung](https://de.wikipedia.org/wiki/Public-Key-Authentifizierung "Hier ist ein kleiner Wikipedia-Artikel zur Grundidee von PKA.") verwendet müsstet ihr davor noch eine andere Datei in PuTTY verlinken und euch dann noch mit einem Kennwort authentifizieren.  
+Da ich nur die Standardeinstellungen meines Droplets verwende, habe ich nun einfach noch ein root-Kennwort einzugeben.
+
+> Protip: Ihr könnt euch in Windows alles rauskopieren und es mit einem Rechtsklick in PuTTY einfügen.
+
+Erschreckt euch übrigens nicht, wenn ihr bei der Kennwort-Eingabe keine Zeichen seht.  
+Das ist bei auf Linux basierenden Systemen standardmäßig so konfiguriert, um zu verhindern dass man eure Passwörter erraten kann... auch die Länge der Kennwörter kann somit nicht durch das Zählen von Sternchen oder ähnlichem erraten werden :\)
+
+![](/assets/putty-login-4.png)
+
+
+
+
+
