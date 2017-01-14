@@ -15,6 +15,18 @@ mysql -u Nutzername -p
 
 Nutzername ist in diesem Fall der root-Nutzername, den wir ja in [Kapitel 5.2](/der-root-user.md) umbenannt haben.
 
+Hiernach sollen wir natürlich noch unser Passwort eingeben.
+
+Der erste Schritt für uns ist es eine neue Datenbank zu erstellen.  
+Das geht ziemlich simpel durch:
+
+```
+CREATE DATABASE nameDerDatenbank;
+```
+
+> Ich würde empfehlen nameDerDatenbank an den Namen der Applikation anzupassen.  
+> So wird die Verwaltung der Datenbank auf jeden Fall deutlich leichter fallen :\)
+
 ## Links:
 
 * Vorheriger Kapitel: [mysqld.cnf](/mysqldcnf.md)
