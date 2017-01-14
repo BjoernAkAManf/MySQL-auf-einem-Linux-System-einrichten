@@ -9,7 +9,7 @@ Jede einzelne Schicht an Sicherheit erschwert es einem potenziellen Angreifer im
 ## Links:
 
 * Vorheriger Kapitel: [Das Paket installieren](/das-paket-installieren.md)
-* Nächster Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
+* Nächster Kapitel: [Setup](/setup.md)
 
 
 
