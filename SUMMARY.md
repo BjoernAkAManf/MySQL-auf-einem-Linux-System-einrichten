@@ -12,3 +12,6 @@
     * [Das Paket installieren](das-paket-installieren.md)
 * [MySQL absichern](mysql-absichern.md)
 
+## Verwaltung und Verwendung
+* [Neue Datenbank erstellen](neue-datenbank-erstellen.md)
+
