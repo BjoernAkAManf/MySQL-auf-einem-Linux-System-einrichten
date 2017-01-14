@@ -7,5 +7,10 @@ Damit ihr eine höchstmögliche Sicherheit gewährleisten könnt, gilt es als Be
 Das klingt auf dem ersten Blick nach viel Arbeit, ist in der Praxis aber ziemlich simpel und verhindert dass eine bösartige Anwendung die gesamte Datenbank ausliest!  
 Der Kosten-/Nutzenfaktor ist hier unermesslich hoch.
 
+## Links:
+
+* Vorheriger Kapitel: [mysqld.cnf](/mysqldcnf.md)
+* Nächster Kapitel: Existiert noch nicht :\)
+
 
 
