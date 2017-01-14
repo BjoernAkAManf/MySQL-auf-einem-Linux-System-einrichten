@@ -76,7 +76,7 @@ Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung d
 
 ## Links:
 
-* Vorheriger Kapitel: Das Paket installieren
+* Vorheriger Kapitel: [Das Paket installieren](/das-paket-installieren.md)
 * Nächster Kapitel: Noch nicht verfasst.
 
 
