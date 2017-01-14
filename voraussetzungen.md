@@ -23,7 +23,6 @@ Wer einen Linux-Desktop verwendet oder sich Linux durch sowas wie [Cygwin ](http
 
 * Vorheriger Kapitel: [Einführung zu MySQL](/einführung-zu-mysql.md)
 * Nächster Kapitel: [MySQL installieren](/mysql-installieren.md)
-* [Inhaltsverzeichnis](/SUMMARY.md)
 
 
 
