@@ -55,11 +55,25 @@ Das dies der Fall ist, geben wir direkt ein Y ein.
 Zum Schluss müssen wir den Dateinamen festlegen.  
 Da wir die geöffnete Datei überschreiben wollen bestätigen wir dies einfach über die Eingabetaste.
 
-Ihr landet wieder im Terminal, in dem ihr nur noch den folgenden Befehl ausführen solltet:
+![](/assets/sql-config-6.png)
+
+Ihr landet wieder im Terminal, in dem ihr nur noch den folgenden Befehl ausführen solltet, um den MySQL Server neu zu starten und die Änderungen somit zu speichern:
 
 ```
 sudo service mysql restart
 ```
+
+![](/assets/sql-config-7.png)
+
+Herzlichen Glückwunsch, die Datenbank ist nun ziemlich stark abgehärtet! ... und was jetzt?
+
+Du willst die Datenbank doch sicherlich nutzen, oder?  
+Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung des MySQL-Servers!
+
+## Links:
+
+* Vorheriger Kapitel: [Der root-User](/der-root-user.md)
+* Nächster Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
 
 
 
