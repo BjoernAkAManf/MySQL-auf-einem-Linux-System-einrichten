@@ -71,7 +71,7 @@ EXIT;
 ## Links:
 
 * Vorheriger Kapitel: [Setup](/setup.md)
-* Nächster Kapitel: mysqld.cnf
+* Nächster Kapitel: [mysqld.cnf](/mysqldcnf.md)
 
 
 

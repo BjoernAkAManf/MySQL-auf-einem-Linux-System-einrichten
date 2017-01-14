@@ -13,7 +13,7 @@
 * [MySQL absichern](mysql-absichern.md)
     * [Setup](setup.md)
     * [Der root-User](der-root-user.md)
-    * mysqld.cnf
+    * [mysqld.cnf](mysqldcnf.md)
 
 ## Verwaltung und Verwendung
 * [Neue Datenbank erstellen](neue-datenbank-erstellen.md)
