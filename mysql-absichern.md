@@ -57,7 +57,22 @@ Auch hier wählen wir ja, da sowas ein gewaltiges Risiko darstellen kann!
 
 ![](/assets/secure-mysql-7.png)
 
-Jetzt werden
+Jetzt werden wir noch gefragt, ob wir die mitgelieferte Testdatenbank löschen wollen.
+
+Auch diese hat in einem Produktivsystem nichts verloren, da sie schließlich jedem Nutzer erlaubt darauf zuzugreifen.  
+Also wählen wir auch hier Y aus.
+
+![](/assets/secure-mysql-8.png)
+
+Zum Schluss werden wir noch gefragt, ob wir unsere Verwaltungsdatenbank neu laden wollen, da nur so die Änderungen auf der Stelle gespeichert werden.
+
+Die Antwort ist logisch: Wir wählen Y aus.![](/assets/secure-mysql-9.png)
+
+Herzlichen Glückwunsch, die Datenbank ist abgesichert!  
+... und was jetzt?
+
+Du willst die Datenbank doch sicherlich nutzen, oder?  
+Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung des MySQL-Servers!
 
 ## Links:
 
