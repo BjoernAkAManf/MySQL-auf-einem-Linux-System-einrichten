@@ -7,9 +7,11 @@ Die Betonung liegt hier auf das korrekt, da ich in den Tiefen des Internets scho
 
 Anders als in den meisten Guides werde ich hier auch möglichst jeden Befehl ausführlichst erklären, damit hier nicht nur einfach ein kurzes Tutorial zur Einrichtung entsteht, sondern auch langfristige Kenntnisse zur Administration und Planung eines solchen Systemes gewonnen werden.
 
+Da mein Tutorial für [Minecraft-Server.eu](https://minecraft-server.eu) \(ich kürze es ab jetzt mit MCSEU ab\) erstellt wurde, werde ich mich größtenteils auf [Minecraft ](https://minecraft.net/de-de/)beziehen.
+
 ## Kontakt
 
-Dieses Tutorial wurde für die Minecraft Serverliste [Minecraft-Server.eu](https://minecraft-server.eu) erstellt.  
+Dieses Tutorial wurde für die Serverliste MCSEU erstellt.  
 Sollte es Fragen oder Anmerkungen zu meinem Guideline geben, so bin ich dort die meiste Zeit zu erreichen.
 
 Außerdem bin ich natürlich auch auf [GitHub ](https://github.com/Xhadius "Hier sollte ohnehin jeder FOSS-Liebhaber zu finden sein :)")vertreten.
