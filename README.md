@@ -18,8 +18,6 @@ Außerdem bin ich natürlich auch auf [GitHub ](https://github.com/Xhadius "Hier
 
 Dieses Buch ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de "Der Lizenztext inklusive der Bedingungen").
 
-
-
 ## Links
 
 * Inhaltsverzeichnis
