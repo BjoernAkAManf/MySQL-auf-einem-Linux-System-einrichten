@@ -32,7 +32,15 @@ Das ist bei auf Linux basierenden Systemen standardmäßig so konfiguriert, um z
 
 ![](/assets/putty-login-4.png)
 
+Nachdem ihr das geschafft habt, seid ihr endlich drin!  
+Die verschlüsselte Verbindung zu eurem Server existiert nun und wir können nun alle möglichen Befehle auf unserem Server durchführen.
 
+![](/assets/putty-login-5.png)
+
+## Links:
+
+* Vorheriger Kapitel: MySQL installieren
+* Nächster Kapitel: Mit dem Server verbinden
 
 
 
