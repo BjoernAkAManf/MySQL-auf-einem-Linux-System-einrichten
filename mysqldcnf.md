@@ -74,7 +74,7 @@ Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung d
 
 * Vorheriger Kapitel: [Der root-User](/der-root-user.md)
 * Nächster Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
-* [Inhaltsverzeichnis](https://www.gitbook.com/book/xhadius/mysql-auf-einem-linux-system-einrichten/edit#)
+* [Inhaltsverzeichnis](/SUMMARY.md)
 
 
 

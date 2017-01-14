@@ -68,7 +68,7 @@ Das wäre nun geschafft, der Server wurde schon mal stark abgehärtet!
 
 * Vorheriger Kapitel: [MySQL absichern](/mysql-absichern.md)
 * Nächster Kapitel: [Der root-User](/der-root-user.md)
-* [Inhaltsverzeichnis](https://www.gitbook.com/book/xhadius/mysql-auf-einem-linux-system-einrichten/edit#)
+* [Inhaltsverzeichnis](/SUMMARY.md)
 
 
 

@@ -24,7 +24,7 @@ Dieses Buch ist lizenziert unter der [Creative Commons Namensnennung 4.0 Interna
 ## Links
 
 * Nächster Kapitel: [Einführung zu MySQL](/einführung-zu-mysql.md)
-* [Inhaltsverzeichnis](https://www.gitbook.com/book/xhadius/mysql-auf-einem-linux-system-einrichten/edit#)
+* [Inhaltsverzeichnis](/SUMMARY.md)
 
 
 
