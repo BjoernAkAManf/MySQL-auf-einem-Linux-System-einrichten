@@ -16,8 +16,8 @@ sudo apt update
 Jetzt warten wir mal ein wenig ab, bis dieser Vorgang abgeschlossen ist.  
 Das ist meistens innerhalb von weniger als 10 Sekunden erledigt.
 
-![](/assets/update-1.png)  
-  
+![](/assets/update-1.png)
+
 Weiter geht es mit
 
 ```
