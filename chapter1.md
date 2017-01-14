@@ -48,8 +48,6 @@ In der Praxis sähe das zum Beispiel so aus:
 | 2 | essentials.msg |
 | 2 | essentials.spawn |
 
-
-
 Fassen wir mal zusammen:  
 Wir haben hier nun die Gruppe "Administrator" und "Spieler".
 
@@ -62,6 +60,4 @@ Die anderen beiden Spieler sind in der Gruppe "Spieler" und dürfen über die ve
 Selbstverständlich sind auch deutlich komplexere Konstruktionen möglich die Beispielsweise untereinander vererben... das würde jedoch den Rahmen dieses Tutorials ein wenig sprengen.
 
 Es geht mir lediglich darum die Mentalität einer relationalen Datenbank zu zeigen.
-
-
 
