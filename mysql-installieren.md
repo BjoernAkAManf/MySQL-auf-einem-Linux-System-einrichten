@@ -8,7 +8,6 @@ Ich versuche euch hier so einfach und verständlich wie möglich beizubringen, w
 
 * Vorheriger Kapitel: [Voraussetzungen](/voraussetzungen.md)
 * Nächster Kapitel: [Mit dem Server verbinden](/mit-dem-server-verbinden.md)
-* [Inhaltsverzeichnis](/SUMMARY.md)
 
 
 
