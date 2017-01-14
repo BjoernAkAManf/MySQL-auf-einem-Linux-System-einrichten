@@ -44,7 +44,20 @@ Da wir brav die volle Punktzahl haben, wählen wir einen beliebigen Buchstaben..
 
 ![](/assets/secure-mysql-5.png)
 
+Jetzt werden wir gefragt, ob wir anonyme Nutzer löschen wollen.
 
+Anonyme Nutzer haben keine Kennung und können von daher von jedem aufgerufen werden, der Zugang zu Datenbank hat.  
+Von daher fällt uns die Entscheidung ziemlich leicht: Wie wählen Y um diese Nutzer zu löschen!
+
+![](/assets/secure-mysql-6.png)
+
+Weiter geht es, indem wir gefragt werden ob wir verhindern wollen, dass der root-User sich von außerhalb einloggt.
+
+Auch hier wählen wir ja, da sowas ein gewaltiges Risiko darstellen kann!
+
+![](/assets/secure-mysql-7.png)
+
+Jetzt werden
 
 ## Links:
 
