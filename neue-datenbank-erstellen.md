@@ -1,4 +1,4 @@
-# 6 Neue Datenbank erstellen
+# 6. Neue Datenbank erstellen
 
 Ihr habt ein Programm welches Zugriff auf eine MySQL-Datenbank braucht?  
 Perfekt, denn jetzt können wir unseren MySQL-Server benutzen!
