@@ -62,11 +62,7 @@ Zum Schluss werden wir noch gefragt, ob wir unsere Verwaltungsdatenbank neu lade
 
 Die Antwort ist logisch: Wir wählen Y aus.![](/assets/secure-mysql-9.png)
 
-Herzlichen Glückwunsch, die Datenbank ist abgesichert!  
-... und was jetzt?
-
-Du willst die Datenbank doch sicherlich nutzen, oder?  
-Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung des MySQL-Servers!
+Das wäre nun geschafft, der Server wurde schon mal stark abgehärtet!
 
 ## Links:
 
