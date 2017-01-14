@@ -8,7 +8,7 @@ Als IP-Adresse/Host geben wir dann noch die [Loopback-Adresse](https://de.wikipe
 ## Links:
 
 * Vorheriger Kapitel: [Die Datenbank verwenden](/die-datenbank-verwenden.md)
-* Nächster Kapitel: Auf einem anderen Server
+* Nächster Kapitel: [Auf einem anderen Server](/auf-einem-anderen-server.md)
 
 
 
