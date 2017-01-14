@@ -20,5 +20,16 @@ Wie würdest du das am ehesten machen?
 
 Ich würde mehrere Tabellen erstellen in denen du vollständig unterschiedliche Datensätze speicherst.  
 In der ersten Tabelle würde ich Beispielsweise die Nutzer und ihre Gruppen speichern und sie "Users" nennen.  
-Die zweite Tabelle erhält
+Die zweite Tabelle erhält dann die Informationen zur Gruppe wie zum Beispiel eine einmalige ID und ihren Namen \("Groups"\).  
+Und zu guter letzt gibt es noch eine dritte Tabelle, in der die einzelnen Rechte der Gruppen liegen \("Permissions"\).
+
+In der Praxis sähe das zum Beispiel so aus:
+
+Users
+
+|  |  |
+| :--- | :--- |
+|  |  |
+
+
 
