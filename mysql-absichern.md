@@ -10,7 +10,12 @@ Jede einzelne Schicht an Sicherheit erschwert es einem potenziellen Angreifer im
 
 * Vorheriger Kapitel: [Das Paket installieren](/das-paket-installieren.md)
 * Nächster Kapitel: [Setup](/setup.md)
-* [Inhaltsverzeichnis](/SUMMARY.md)
+
+
+
+
+
+
 
 
 

@@ -74,7 +74,12 @@ Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung d
 
 * Vorheriger Kapitel: [Der root-User](/der-root-user.md)
 * Nächster Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
-* [Inhaltsverzeichnis](/SUMMARY.md)
+
+
+
+
+
+
 
 
 

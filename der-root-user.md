@@ -72,7 +72,6 @@ EXIT;
 
 * Vorheriger Kapitel: [Setup](/setup.md)
 * Nächster Kapitel: [mysqld.cnf](/mysqldcnf.md)
-* [Inhaltsverzeichnis](/SUMMARY.md)
 
 
 
