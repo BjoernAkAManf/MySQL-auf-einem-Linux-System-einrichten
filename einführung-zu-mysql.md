@@ -68,7 +68,6 @@ Es geht mir lediglich darum die Mentalität einer relationalen Datenbank zu zeig
 ## Links:
 
 * Vorheriger Kapitel: [Vorwort](/README.md)
-
 * Nächster Kapitel: [Voraussetzungen](/voraussetzungen.md)
 
 
