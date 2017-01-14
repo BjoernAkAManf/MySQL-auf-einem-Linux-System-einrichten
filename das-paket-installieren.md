@@ -41,7 +41,7 @@ Dieser muss jetzt aber erstmal in die Backröhre rein... mit anderen Worten: Wir
 ## Links:
 
 * Vorheriges Kapitel: [Den Server updaten](/den-server-updaten.md)
-* Nächstes Kapitel: MySQL absichern
+* Nächstes Kapitel: [MySQL absichern](/mysql-absichern.md)
 
 
 
