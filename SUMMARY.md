@@ -7,4 +7,5 @@
 ## Die Installation
 * [Voraussetzungen](voraussetzungen.md)
 * [MySQL installieren](mysql-installieren.md)
+    * [Mit dem Server verbinden](mit-dem-server-verbinden.md)
 
