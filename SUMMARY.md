@@ -6,4 +6,5 @@
 
 ## Die Installation
 * [Voraussetzungen](voraussetzungen.md)
+* [MySQL installieren](mysql-installieren.md)
 
