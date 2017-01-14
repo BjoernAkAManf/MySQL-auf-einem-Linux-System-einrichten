@@ -77,7 +77,7 @@ Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung d
 ## Links:
 
 * Vorheriger Kapitel: [Das Paket installieren](/das-paket-installieren.md)
-* Nächster Kapitel: Neue Datenbank erstellen
+* Nächster Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
 
 
 
