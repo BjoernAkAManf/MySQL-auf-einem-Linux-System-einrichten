@@ -20,8 +20,7 @@ Dieses Buch ist lizenziert unter der [Creative Commons Namensnennung 4.0 Interna
 
 ## Links
 
-* Inhaltsverzeichnis
-* Nächster Kapitel: MySQL
+* Nächster Kapitel: [MySQL](/chapter1.md)
 
 
 
