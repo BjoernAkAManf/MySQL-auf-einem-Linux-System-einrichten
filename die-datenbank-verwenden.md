@@ -7,4 +7,8 @@ Da es hier mehrere mögliche Szenarien gibt werde ich diese nacheinander behande
 
 ## Links:
 
-* 
+* Vorheriger Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
+* Nächster Kapitel: [Auf dem selben Server](/auf-dem-selben-server.md)
+
+
+

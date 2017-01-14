@@ -18,4 +18,5 @@
 ## Verwaltung und Verwendung
 * [Neue Datenbank erstellen](neue-datenbank-erstellen.md)
 * [Die Datenbank verwenden](die-datenbank-verwenden.md)
+    * [Auf dem selben Server](auf-dem-selben-server.md)
 
