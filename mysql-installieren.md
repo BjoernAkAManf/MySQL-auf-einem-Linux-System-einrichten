@@ -9,5 +9,5 @@ Die IP meines Droplets lautet 207.154.206.43, der Nutzername ist hier StandardmÃ
 
 Also gut, geben wir mal bei PuTTY die IP ein, drÃ¼cken unten auf "Open" und sehen mal was passiert.
 
-![](/assets/putty-login.png)
+![](/assets/putty-login-1.png)
 
