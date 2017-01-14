@@ -72,6 +72,7 @@ EXIT;
 
 * Vorheriger Kapitel: [Setup](/setup.md)
 * Nächster Kapitel: [mysqld.cnf](/mysqldcnf.md)
+* [Inhaltsverzeichnis](https://www.gitbook.com/book/xhadius/mysql-auf-einem-linux-system-einrichten/edit#)
 
 
 

@@ -69,6 +69,7 @@ Es geht mir lediglich darum die Mentalität einer relationalen Datenbank zu zeig
 
 * Vorheriger Kapitel: [Vorwort](/README.md)
 * Nächster Kapitel: [Voraussetzungen](/voraussetzungen.md)
+* [Inhaltsverzeichnis](https://www.gitbook.com/book/xhadius/mysql-auf-einem-linux-system-einrichten/edit#)
 
 
 

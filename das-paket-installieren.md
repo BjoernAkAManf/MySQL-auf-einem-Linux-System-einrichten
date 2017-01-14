@@ -42,6 +42,7 @@ Dieser muss jetzt aber erstmal in die Backröhre rein... mit anderen Worten: Wir
 
 * Vorheriges Kapitel: [Den Server updaten](/den-server-updaten.md)
 * Nächstes Kapitel: [MySQL absichern](/mysql-absichern.md)
+* [Inhaltsverzeichnis](https://www.gitbook.com/book/xhadius/mysql-auf-einem-linux-system-einrichten/edit#)
 
 
 
