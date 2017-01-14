@@ -90,3 +90,42 @@ Der Tunnel steht und läuft nun im Hintergrund.
 
 Jeder Traffic über den Port 3306 wird nun automatisch an die MySQL-Instanz weitergeleitet!
 
+Also gut, probieren wir es aus! :\)
+
+![](/assets/connect-extern-7.png)
+
+Wir geben also unseren Befehl ein...
+
+![](/assets/connect-extern-8.png)
+
+... authentifizieren uns mit unserem Passwort...
+
+![](/assets/connect-extern-9.png)
+
+... und erleben die größte Enttäuschung seit der Erfindung des [Bibi-Phones](https://youtu.be/wNmEAaPndLo)!
+
+Packt die Mistgabeln wieder ein, denn die Erklärung ist ziemlich simpel: Standardmäßig versucht MySQL sich nicht übers Loopback-Interface mit einem MySQL-Server zu verbinden, sondern hat einen eigenen Socket... da hier aber lokal keine MySQL-Instanz läuft, müssen wir den MySQL-Client dazu anweisen sich mit 127.0.0.1 zu verbinden.
+
+Um den Host festzulegen erweitert ihr den Befehl durch folgenden Parameter:
+
+```
+-h 127.0.0.1
+```
+
+![](/assets/connect-extern-10.png)
+
+Uuuuuuuund...
+
+![](/assets/connect-extern-11.png)
+
+Tadaaaa! Wir haben es geschafft! :\)
+
+> In der Praxis macht das ohnehin keinen Unterschied, da mir keine Anwendung bekannt ist, in der man nicht selbst den DB-Host angeben muss.
+>
+> Jedoch war es nötig für dieses Tutorial.
+
+Herzlichen Glückwunsch!  
+Wenn du ebenfalls Erfolg hattest würde ich mich sehr über Feedback zu meinem Guideline freuen.
+
+Und falls du nun so viel Stress hattest und erstmal eine Pause brauchst, kannst du auch gerne bei mir auf meinem [Let's Play Kanal](https://www.youtube.com/Xhadius) vorbeischauen.
+
