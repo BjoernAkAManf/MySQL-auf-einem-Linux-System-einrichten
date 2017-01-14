@@ -48,5 +48,3 @@ Sobald alles erledigt sind wandern wir automatisch zurück in das Terminal.
 
 
 
-
-
