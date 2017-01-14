@@ -48,8 +48,6 @@ In der Praxis sähe das zum Beispiel so aus:
 | 2 | essentials.msg |
 | 2 | essentials.spawn |
 
-
-
 Fassen wir mal zusammen:  
 Wir haben hier nun die Gruppe "Administrator" und "Spieler".
 
