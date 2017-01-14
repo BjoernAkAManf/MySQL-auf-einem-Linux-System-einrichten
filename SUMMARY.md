@@ -10,4 +10,5 @@
     * [Mit dem Server verbinden](mit-dem-server-verbinden.md)
     * [Den Server updaten](den-server-updaten.md)
     * [Das Paket installieren](das-paket-installieren.md)
+* [MySQL absichern](mysql-absichern.md)
 
