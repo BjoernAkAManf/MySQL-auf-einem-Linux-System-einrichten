@@ -68,3 +68,10 @@ Herzlichen Glückwunsch, die Datenbank ist abgesichert!
 Du willst die Datenbank doch sicherlich nutzen, oder?  
 Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung des MySQL-Servers!
 
+## Links:
+
+* Vorheriger Kapitel: MySQL absichern
+* Nächster Kapitel: Der root-User
+
+
+
