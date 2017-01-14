@@ -7,6 +7,14 @@ Perfekt, denn jetzt können wir unseren MySQL-Server benutzen!
 > Das klingt auf dem ersten Blick nach viel Arbeit, ist in der Praxis aber ziemlich simpel und verhindert dass eine bösartige Anwendung die gesamte Datenbank ausliest!  
 > Der Kosten-/Nutzenfaktor ist hier unermesslich hoch.
 
+Wir melden uns also in unserem Terminal an und gehen zu unserem DBMS.
+
+```
+mysql -u Nutzername -p
+```
+
+Nutzername ist in diesem Fall der root-Nutzername, den wir ja in [Kapitel 5.2](/der-root-user.md) umbenannt haben.
+
 ## Links:
 
 * Vorheriger Kapitel: [mysqld.cnf](/mysqldcnf.md)
