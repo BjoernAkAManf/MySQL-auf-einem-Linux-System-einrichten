@@ -7,7 +7,8 @@ Die Betonung liegt hier auf das korrekt, da ich in den Tiefen des Internets scho
 
 Anders als in den meisten Guides werde ich hier auch möglichst jeden Befehl ausführlichst erklären, damit hier nicht nur einfach ein kurzes Tutorial zur Einrichtung entsteht, sondern auch langfristige Kenntnisse zur Administration und Planung eines solchen Systemes gewonnen werden.
 
-Da mein Tutorial für [Minecraft-Server.eu](https://minecraft-server.eu) \(ich kürze es ab jetzt mit MCSEU ab\) erstellt wurde, werde ich mich größtenteils auf [Minecraft ](https://minecraft.net/de-de/)beziehen.
+Da mein Tutorial für [Minecraft-Server.eu](https://minecraft-server.eu) \(ich kürze es ab jetzt mit MCSEU ab\) erstellt wurde, werde ich mich größtenteils auf [Minecraft ](https://minecraft.net/de-de/)beziehen.  
+Zudem werde ich die Beispiele ein wenig vereinfachen, so dass zwar nicht alle wichtigen Details vermittelt werden, jedoch die Grundlagen und Gedanken dahinter vermittelt werden.
 
 ## Kontakt
 

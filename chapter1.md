@@ -7,7 +7,7 @@ Dazu gehören zum Beispiel [Facebook](https://www.mysql.de/customers/view/?id=75
 
 Zu ihren großen Stärken gehören neben der hohen Reife auch die Tatsache, dass die Datenbank eine starke Open Source Community hat und [der Quelltext frei vorliegt](https://github.com/mysql/mysql-server "Die Repository vom MySQL-Server").
 
-
+Eine solche Datenbank ist spätestens dann sehr wichtig, wenn du mit mehreren Applikationen gleichzeitig auf Datensätze zugreifen und diese unter Umständen sogar verarbeiten musst.
 
 ## Was ist eine relationale Datenbank?
 
@@ -15,5 +15,10 @@ Eine relationale Datenbank speichert seine Daten in sogenannten Relationen, die 
 Jeder Datensatz wird als Zeile in dieser Tabelle gespeichert.  
 Die Spalten der Tabelle stellen hierbei die Attribute der Datenbank dar.
 
-Da mein Buch für Minecraft-Server.eu erstellt wurde, werde ich auch auf Minecraft basierende Beispiele verwenden.
+Stell dir vor du möchtest für jeden Spieler des Servers seine Rechte speichern.  
+Wie würdest du das am ehesten machen?
+
+Ich würde mehrere Tabellen erstellen in denen du vollständig unterschiedliche Datensätze speicherst.  
+In der ersten Tabelle würde ich Beispielsweise die Nutzer und ihre Gruppen speichern und sie "Users" nennen.  
+Die zweite Tabelle erhält
 
