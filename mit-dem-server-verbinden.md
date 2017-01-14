@@ -40,7 +40,7 @@ Die verschlüsselte Verbindung zu eurem Server existiert nun und wir können nun
 ## Links:
 
 * Vorheriger Kapitel: [MySQL installieren](/mysql-installieren.md)
-* Nächster Kapitel: Mit dem Server verbinden
+* Nächster Kapitel: [Den Server updaten](/den-server-updaten.md)
 
 
 

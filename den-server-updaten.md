@@ -38,3 +38,15 @@ Sobald alles erledigt sind wandern wir automatisch zurück in das Terminal.
 
 ![](/assets/update-3.png)
 
+## Links:
+
+* Vorheriger Kapitel: [Mit dem Server verbinden](/mit-dem-server-verbinden.md)
+* Nächster Kapitel: noch nicht verfasst
+* Sonstiges:
+  * [Informationen zu sudo](https://wiki.ubuntuusers.de/sudo/)
+  * [Informationen zu apt](https://wiki.ubuntuusers.de/apt/apt/)
+
+
+
+
+
