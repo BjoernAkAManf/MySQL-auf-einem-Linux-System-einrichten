@@ -41,7 +41,7 @@ Sobald alles erledigt sind wandern wir automatisch zurück in das Terminal.
 ## Links:
 
 * Vorheriger Kapitel: [Mit dem Server verbinden](/mit-dem-server-verbinden.md)
-* Nächster Kapitel: noch nicht verfasst
+* Nächster Kapitel: [Das Paket installieren](/das-paket-installieren.md)
 * Sonstiges:
   * [Informationen zu sudo](https://wiki.ubuntuusers.de/sudo/)
   * [Informationen zu apt](https://wiki.ubuntuusers.de/apt/apt/)
