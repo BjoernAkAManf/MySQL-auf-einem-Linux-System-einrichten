@@ -18,7 +18,7 @@ Den PuTTY ist wie Anfangs im Tutorial erwähnt ein [SSH](https://tools.ietf.org/
 SSH ist kurz für Secure Shell, was wie der Zufall so will verschlüsselt ist.
 
 Und wenn du dich jetzt fragst, ob wir vielleicht SSH mit MySQL koppeln können, dann hast du 100/100 Punkten erreicht!  
-Dieses Verfahren nennt sich [SSH-Tunneling](https://de.wikipedia.org/wiki/Tunnel_(Rechnernetz)) und kapselt die TCP/IP-Pakete in einer SSH-Verbindung.
+Dieses Verfahren nennt sich [SSH-Tunneling](https://de.wikipedia.org/wiki/Tunnel_(Rechnernetz)\) und kapselt die TCP/IP-Pakete in einer SSH-Verbindung.
 
 ## Umsetzung
 
@@ -57,7 +57,7 @@ Diese soll im Hintergrund stattfinden, diese soll möglichst nichts in der Konso
 Das alles lässt sich mit folgendem Befehl zusammenfassen:
 
 ```
-ssh -f ssh-nutzername@externe-ip-von-mysql-instanz -L 3306:127.0.0.1:3306 -N 
+ssh -f ssh-nutzername@externe-ip-von-mysql-instanz -L 3306:127.0.0.1:3306 -N
 ```
 
 > Woah, ruhig mit den jungen Pferden.  
@@ -70,5 +70,23 @@ ssh -f ssh-nutzername@externe-ip-von-mysql-instanz -L 3306:127.0.0.1:3306 -N
 > 3306:127.0.0.1:3306 ist die von uns gewünschte Konfiguration, da 3306 der Standardport von MySQL ist.  
 > -N ist notwendig für Tunneling, da ssh normalerweise davon ausgeht, dass am Ende noch ein auszuführender Befehl kommt.
 
+![](/assets/connect-extern-4.png)
 
+> Auch hier nochmal der Hinweis: Verwendet niemals, unter gar keinen Umständen den SSH-root.  
+> Ich darf das in diesem Fall, da das hier nur ein kleines Tutorial ist, bei dem ich die Instanzen im Nachhinein ohnehin wieder lösche!
+
+Wir werden nun gefragt, ob wir dem Fingerprint des Servers vertrauen.  
+Was es mit diesem Fingerprint auf sich hat, habe ich bereits in [Kapitel 4.1](/mit-dem-server-verbinden.md) erläutert.
+
+![](/assets/connect-extern-5.png)
+
+Ist das erledigt wird der Fingerabdruck permanent auf dem Server gespeichert.  
+Als nächstes wird noch das SSH-Passwort vom entfernten Server abgefragt, was wir nun auch eingeben.
+
+![](/assets/connect-extern-6.png)
+
+Fertig. Das wars.  
+Der Tunnel steht und läuft nun im Hintergrund.
+
+Jeder Traffic über den Port 3306 wird nun automatisch an die MySQL-Instanz weitergeleitet!
 
