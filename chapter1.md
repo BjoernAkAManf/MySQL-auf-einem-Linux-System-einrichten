@@ -25,6 +25,8 @@ Und zu guter letzt gibt es noch eine dritte Tabelle, in der die einzelnen Rechte
 
 In der Praxis sähe das zum Beispiel so aus:
 
+---
+
 ### Users
 
 | uuid | group |
@@ -48,7 +50,7 @@ In der Praxis sähe das zum Beispiel so aus:
 | 2 | essentials.msg |
 | 2 | essentials.spawn |
 
-
+---
 
 Fassen wir mal zusammen:  
 Wir haben hier nun die Gruppe "Administrator" und "Spieler".
