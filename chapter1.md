@@ -25,11 +25,43 @@ Und zu guter letzt gibt es noch eine dritte Tabelle, in der die einzelnen Rechte
 
 In der Praxis sähe das zum Beispiel so aus:
 
-Users
+### Users
 
-|  |  |
+| uuid | group |
 | :--- | :--- |
-|  |  |
+| bb66bd0c-a8c0-478d-afac-449c44f57da2 | 1 |
+| 873c5315-1d81-48d4-b01c-d6e2c7d5b977 | 2 |
+| baae8c3d-4f66-418f-afab-881cea0dc412 | 2 |
+
+### Groups
+
+| group | name |
+| :--- | :--- |
+| 1 | Administrator |
+| 2 | Spieler |
+
+### Permissions
+
+| group | permission |
+| :--- | :--- |
+| 1 | \* |
+| 2 | essentials.msg |
+| 2 | essentials.spawn |
+
+
+
+Fassen wir mal zusammen:  
+Wir haben hier nun die Gruppe "Administrator" und "Spieler".
+
+Der Spieler mit der UUID "bb66bd0c-a8c0-478d-afac-449c44f57da2" aka. Xhadius ist Administrator auf diesem System und hat die Berechtigung "\*" was eine Wildcard ist... sprich er darf alles.
+
+> Das ist nur ein Beispiel, verwende bitte niemals die Berechtigung "\*", sondern gebe die Berechtigungen lieber sehr präzise für den jeweiligen benötigten Bedarf aus!
+
+Die anderen beiden Spieler sind in der Gruppe "Spieler" und dürfen über die vergebenen Berechtigungen den Befehl /msg und /spawn mit dem Plugin Essentials durchführen.
+
+Selbstverständlich sind auch deutlich komplexere Konstruktionen möglich die Beispielsweise untereinander vererben... das würde jedoch den Rahmen dieses Tutorials ein wenig sprengen.
+
+Es geht mir lediglich darum die Mentalität einer relationalen Datenbank zu zeigen.
 
 
 
