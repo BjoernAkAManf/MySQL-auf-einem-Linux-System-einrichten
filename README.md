@@ -23,7 +23,7 @@ Dieses Buch ist lizenziert unter der [Creative Commons Namensnennung 4.0 Interna
 
 ## Links
 
-* Nächster Kapitel: [Einführung zu MySQL](/chapter1.md)
+* Nächster Kapitel: [Einführung zu MySQL](/einführung-zu-mysql.md)
 
 
 
