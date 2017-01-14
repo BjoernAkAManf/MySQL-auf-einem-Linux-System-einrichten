@@ -73,7 +73,7 @@ Dies werde ich im letzten Kapitel genauer erläutern.
 ## Links:
 
 * Vorheriger Kapitel: [mysqld.cnf](/mysqldcnf.md)
-* Nächster Kapitel: Existiert noch nicht :\)
+* Nächster Kapitel: [Die Datenbank verwenden](/die-datenbank-verwenden.md)
 
 
 
