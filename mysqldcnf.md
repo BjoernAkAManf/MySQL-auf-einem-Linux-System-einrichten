@@ -18,6 +18,8 @@ Also gut, fangen wir mal im Terminal an, indem wir mit nano die genannte Datei Ã
 sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
 ```
 
+![](/assets/sql-config-1.png)
+
 Wir scrollen nun mit unseren Pfeiltasten bis hinter das letzte Zeichen von der Zeile
 
 ```
