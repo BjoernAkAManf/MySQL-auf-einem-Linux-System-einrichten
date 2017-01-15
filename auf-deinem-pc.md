@@ -72,7 +72,56 @@ Zum Schluss kommen noch MySQL Hostname und Port die jeweils bei den Standardeins
 
 Dazu müssen wir noch den Username und das Passwort des gewünschten MySQL-Accounts eingeben.
 
-Haben wir das alles gemacht können wir nun auf die Schaltfläche "Test Connection" drücken und
+![](/assets/connect-windows-5.png)
+
+Haben wir das alles gemacht können wir nun auf die Schaltfläche "Test Connection" drücken und werden nun auch hier wieder nach dem Fingerprint \([siehe Kapitel 4.1](/mit-dem-server-verbinden.md)\) gefragt.
+
+![](/assets/connect-windows-6.png)
+
+Da wir dem Server vertrauen, drücken wir nun auf Continue und bekommen nun die Bestätigung, dass die Verbindung hergestellt werden kann.
+
+> Lasst euch nicht von dem "SSL: not enabled" nicht verunsichert.  
+> Wir verwenden in diesem Tutorial eben nicht die von MySQL mitgelieferte SSL-Funktionalität, da hierfür die Anwendungen umgeschrieben werden müssten um sich korrekt zu authentifizieren.  
+> Stattdessen packen wir wie im [vorherigen Kapitel](/auf-einem-anderen-server.md) beschrieben unsere Pakete mit dem verschlüsselten SSH-Protokol ein und erhalten somit eine äquivalente Sicherheit!
+
+![](/assets/connect-windows-7.png)
+
+Jetzt bestätigen wir unsere Einstellungen indem wir das Bestätigungsfenster und das Setupfenster mit einem Druck auf den "OK"-Button schließen und landen wieder auf der Hauptseite von der MySQL Workbench... nur mit dem unterschied, dass unsere konfigurierte MySQL-Datenbank nun auf der Startseite zu erreichen ist.
+
+![](/assets/connect-windows-8.png)
+
+Wir klicken nun einmal auf unsere neue Schaltfläche und werden direkt verbunden.
+
+![](/assets/connect-windows-9.png)
+
+Unten links bei "SCHEMAS" sehen wir nun unsere Datenbank "wordpress", die wir ja damals in [Kapitel 6](/neue-datenbank-erstellen.md) erstellt haben.  
+Klicken wir nun auf den dezenten Pfeil links daneben, so klappt sich eine Übersicht aus verschiedenen Elementen einer MySQL-Datenbank aus.
+
+![](/assets/connect-windows-10.png)
+
+Da wir uns in diesem Tutorial nur für die Tabellen interessieren, klicken wir nun auf den Pfeil links neben "Tables" und klappen diese Übersicht auf.
+
+Wir werden begrüßt von allen Tabellen, die WordPress in seiner Standard-Installation erstellt.
+
+> Nur zur Erinnerung: Das ist normalerweise nicht der Fall, nur habe ich wie schon oben in einer Anmerkung bereits erwähnt Wordpress auf dem Server installiert um ein praktisches Beispiel zu haben.
+
+![](/assets/connect-windows-11.png)
+
+Beim Mouseover über jede der Tabellen sieht man ganz rechts drei kleine Symbole: Ein "i" , ein Schraubenschlüssel und eine Tabelle.  
+Da wir uns nun zum Beispiel den Inhalt von der Tabelle "wp\_comments" anschauen wollen, klicke ich nun auf die Tabelle und es öffnet sich ein neuer Tab.
+
+> Tipp: MySQL Workbench ist ein Programm, bei dem ich defintiiv empfehlen würde den Vollbild-Modus zu aktivieren und möglicherweise einige Elemente vom UI zu verschieben.
+>
+> Oben rechts klicke ich gerne auf die Schaltfläche mit dem blauen Rechteck auf der rechten Seite, da dieses das Modul "SQLAdditions" ausblendet.
+
+Interessanterweise wird uns oben der durchgeführte SQL-Query angezeigt während wir unten noch eine Übersicht über die ersten tausend Zeilen des Ergebnisses erhalten.
+
+Dieses Limit kann man auch problemlos in der Menüleiste vom SQL-Fenster erhöhen oder sogar ganz deaktivieren.  
+Und natürlich kann man hier auch die Einträge der Tabelle verändern \(ALTER\), löschen \(DROP\) oder neue Einträge \(CREATE\) hinzufügen.  
+Und natürlich kann man hier auch Tabellen verändern, löschen oder neue Tabellen hinzufügen.  
+Und natürlich kann man auch... naja, alles machen, was man mit phpMyAdmin auch kann.
+
+Nur eben mit einem entscheidenden Unterschied: Wir sabotieren nicht unsere eigene Sicherheit!
 
 ---
 
