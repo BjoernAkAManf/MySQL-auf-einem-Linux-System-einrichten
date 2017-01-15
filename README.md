@@ -15,7 +15,7 @@ Zudem werde ich die Beispiele ein wenig vereinfachen, so dass zwar nicht alle wi
 Dieses Tutorial wurde für die Serverliste MCSEU erstellt.  
 Sollte es Fragen oder Anmerkungen zu meinem Guideline geben, so bin ich dort die meiste Zeit zu erreichen.
 
-Außerdem bin ich natürlich auch auf [GitHub ](https://github.com/Xhadius "Hier sollte ohnehin jeder FOSS-Liebhaber zu finden sein :)")vertreten.
+Außerdem bin ich natürlich auch auf [GitHub](https://github.com/Xhadius/MySQL-auf-einem-Linux-System-einrichten "Hier sollte ohnehin jeder FOSS-Liebhaber zu finden sein :)") vertreten.
 
 ## Lizenz
 
