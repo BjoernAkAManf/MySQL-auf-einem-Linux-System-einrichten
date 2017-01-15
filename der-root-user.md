@@ -68,8 +68,7 @@ Um nun das DBMS zu verlassen und zurück zum Terminal zu gehen, müssen wir nun 
 EXIT;
 ```
 
-H  
-erzlichen Glückwunsch, die Datenbank ist nun ziemlich stark abgehärtet! ... und was jetzt?
+Herzlichen Glückwunsch, die Datenbank ist nun ziemlich stark abgehärtet! ... und was jetzt?
 
 Du willst die Datenbank doch sicherlich nutzen, oder? Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung des MySQL-Servers!
 
