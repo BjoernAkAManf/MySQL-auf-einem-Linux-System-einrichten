@@ -74,6 +74,8 @@ ssh -f ssh-nutzername@externe-ip-von-mysql-instanz -L 3306:127.0.0.1:3306 -N
 
 > Auch hier nochmal der Hinweis: Verwendet niemals, unter gar keinen Umständen den SSH-root.  
 > Ich darf das in diesem Fall, da das hier nur ein kleines Tutorial ist, bei dem ich die Instanzen im Nachhinein ohnehin wieder lösche!
+>
+> Ich empfehle es hierfür einen eigenen SSH-Account zu erstellen und den auch entsprechen zu benennen.
 
 Wir werden nun gefragt, ob wir dem Fingerprint des Servers vertrauen.  
 Was es mit diesem Fingerprint auf sich hat, habe ich bereits in [Kapitel 4.1](/mit-dem-server-verbinden.md) erläutert.
