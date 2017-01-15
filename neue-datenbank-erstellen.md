@@ -72,7 +72,7 @@ Dies werde ich im letzten Kapitel genauer erläutern.
 
 ## Links:
 
-* Vorheriger Kapitel: [mysqld.cnf](/mysqldcnf.md)
+* Vorheriger Kapitel: [Der root-User](/der-root-user.md)
 * Nächster Kapitel: [Die Datenbank verwenden](/die-datenbank-verwenden.md)
 
 

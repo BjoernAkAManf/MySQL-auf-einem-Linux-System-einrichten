@@ -68,10 +68,14 @@ Um nun das DBMS zu verlassen und zurück zum Terminal zu gehen, müssen wir nun 
 EXIT;
 ```
 
+Herzlichen Glückwunsch, die Datenbank ist nun ziemlich stark abgehärtet! ... und was jetzt?
+
+Du willst die Datenbank doch sicherlich nutzen, oder? Im letzten großen Abschnitt kümmern wir uns um die Verwaltung und Verwendung des MySQL-Servers!
+
 ## Links:
 
 * Vorheriger Kapitel: [Setup](/setup.md)
-* Nächster Kapitel: [mysqld.cnf](/mysqldcnf.md)
+* Nächster Kapitel: [Neue Datenbank erstellen](/neue-datenbank-erstellen.md)
 
 
 
