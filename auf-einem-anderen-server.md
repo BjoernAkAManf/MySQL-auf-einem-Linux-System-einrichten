@@ -126,16 +126,10 @@ Tadaaaa! Wir haben es geschafft! :\)
 >
 > Jedoch war es nötig für dieses Tutorial.
 
-Herzlichen Glückwunsch!  
-Wenn du ebenfalls Erfolg hattest würde ich mich sehr über Feedback zu meinem Guideline freuen.
-
-Und falls du nun so viel Stress hattest und erstmal eine Pause brauchst, kannst du auch gerne bei mir auf meinem [Let's Play Kanal](https://www.youtube.com/Xhadius) vorbeischauen.
-
 ## Links:
 
 * Vorheriger Kapitel: [Auf dem selben Server](/auf-dem-selben-server.md)
-
-
+* Nächster Kapitel: [Auf deinem PC](/auf-deinem-pc.md)
 
 
 
