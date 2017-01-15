@@ -1,0 +1,21 @@
+{
+  "name": "mysql-auf-linux",
+  "version": "1.0.0",
+  "description": "Tutorial describing the installation of MySQL on a Linux Server.",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "scripts": {
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xhadius/MySQL-auf-einem-Linux-System-einrichten.git"
+  },
+  "author": "Xhadius",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/Xhadius/MySQL-auf-einem-Linux-System-einrichten/issues"
+  },
+  "homepage": "https://github.com/Xhadius/MySQL-auf-einem-Linux-System-einrichten"
+}
