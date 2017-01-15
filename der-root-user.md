@@ -52,16 +52,6 @@ RENAME USER 'root'@'localhost' TO 'neuerNutzername'@'localhost';
 
 ![](/assets/change-root-3.png)
 
-Nachdem das erledigt ist, sollten wir natürlich die Verwaltungsdatenbank wieder dazu bringen die neusten Änderungen auszulesen.
-
-Das machen wir durch den folgenden Befehl:
-
-```
-FLUSH PRIVILEGES;
-```
-
-![](/assets/change-root-4.png)
-
 Um nun das DBMS zu verlassen und zurück zum Terminal zu gehen, müssen wir nun einfach den folgenden Befehl eingeben:
 
 ```
