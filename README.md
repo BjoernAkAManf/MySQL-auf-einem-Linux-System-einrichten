@@ -19,7 +19,7 @@ Außerdem bin ich natürlich auch auf [GitHub](https://github.com/Xhadius/MySQL-
 
 ---
 
-Privat betreibe ich außerdem noch einen YouTube-Kanal der sich mit Let's Plays beschäftigt.
+Privat betreibe ich außerdem noch einen YouTube-Kanal, auf dem ich Let's Plays bringe.
 
 [![](/assets/Banner.jpg)](https://www.youtube.com/Xhadius)
 
