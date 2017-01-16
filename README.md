@@ -17,6 +17,12 @@ Sollte es Fragen oder Anmerkungen zu meinem Guideline geben, so bin ich dort die
 
 Außerdem bin ich natürlich auch auf [GitHub](https://github.com/Xhadius/MySQL-auf-einem-Linux-System-einrichten "Hier sollte ohnehin jeder FOSS-Liebhaber zu finden sein :)") vertreten.
 
+---
+
+Privat betreibe ich außerdem noch einen YouTube-Kanal der sich mit Let's Plays beschäftigt.
+
+[![](/assets/Banner.jpg)](https://www.youtube.com/Xhadius)
+
 ## Lizenz
 
 Dieses Buch ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de "Der Lizenztext inklusive der Bedingungen").

@@ -123,13 +123,6 @@ Und natürlich kann man auch... naja, alles machen, was man mit phpMyAdmin auch 
 
 Nur eben mit einem entscheidenden Unterschied: Wir sabotieren nicht unsere eigene Sicherheit!
 
----
-
-Herzlichen Glückwunsch!  
-Wenn du ebenfalls Erfolg hattest würde ich mich sehr über Feedback zu meinem Guideline freuen.
-
-Und falls du nun so viel Stress hattest und erstmal eine Pause brauchst, kannst du auch gerne bei mir auf meinem [Let's Play Kanal](https://www.youtube.com/Xhadius) vorbeischauen.
-
 ## Links
 
 Vorheriger Kapitel: [Auf einem anderen Server](/auf-einem-anderen-server.md)
